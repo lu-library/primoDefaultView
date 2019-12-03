@@ -1,0 +1,93 @@
+/*Uncomment the follwoing lines to move facets to the left*/
+
+/*
+prm-search > md-content.md-primoExplore-theme .main {
+    display: -webkit-flex; !* Safari *!
+    -webkit-flex-flow: row-reverse wrap; !* Safari 6.1+ *!
+    display: flex;
+    flex-flow: row-reverse wrap;
+
+}
+.screen-gt-sm .sidebar{
+    webkit-flex: 0 0 15%;
+    flex: 0 0 15%;
+}
+
+*/
+
+/* custom header container */
+.custom-header {}
+
+
+/* turn off fly to fav pin animation */
+.pinDummy.animating{animation:none !important;}
+
+ls .prm-primary-bg.prm-hue1, prm-spinner.prm-hue1.overlay-cover.light-on-dark::after, prm-topbar .top-nav-bar, prm-search-bar.prm-hue1 {
+	background-color: #fff;
+}
+
+.layout-align-center-center > *, .layout-align-end-center > *, .layout-align-space-around-center > *, .layout-align-space-between-center > *, .layout-align-start-center > * {
+/*	color: #00427a; */
+}
+
+prm-search-bar, prm-atoz-search-bar, prm-journals-search-bar, prm-browse-search-bar, prm-tags-search-bar {
+    background-color: #00427a;
+}
+
+.darker-bg, prm-search-bookmark-filter .md-button, prm-user-area, prm-user-area md-fab-trigger.show-user-info::after {
+    background-color:#ffffff;
+}
+.hoverable-over-dark, .md-button.button-over-dark, prm-main-menu[menu-type="full"] .md-button.md-focused, prm-main-menu[menu-type="full"] .md-button .md-input-container-dummy > .md-select-dummy:focus, prm-main-menu[menu-type="full"] .md-button:focus, prm-main-menu[menu-type="full"] .md-button:hover, prm-main-menu[menu-type="full"] .md-button md-select:focus, prm-main-menu[menu-type="full"] .overlay-menu-item.md-focused, prm-main-menu[menu-type="full"] .overlay-menu-item .md-input-container-dummy > .md-select-dummy:focus, prm-main-menu[menu-type="full"] .overlay-menu-item:focus, prm-main-menu[menu-type="full"] .overlay-menu-item:hover, prm-main-menu[menu-type="full"] .overlay-menu-item md-select:focus, prm-main-menu[menu-type="full"] md-button:focus, prm-main-menu[menu-type="full"] md-button:hover, prm-topbar .md-button, prm-user-area .md-button.user-menu-button, prm-user-area md-fab-toolbar ._md-fab-action-item .md-button, prm-user-area md-fab-toolbar ._md-fab-action-item md-input-container, prm-user-area md-fab-toolbar .md-fab-action-item .md-button, prm-user-area md-fab-toolbar .md-fab-action-item md-input-container {
+	/* color: #000; */
+	color:#00427a;
+}
+.md-button.button-over-dark:hover:not([disabled]),
+prm-topbar .md-button:hover:not([disabled]){
+	color: #fff;
+	background-color: #00427a;
+}
+
+.prm-secondary-color.prm-hue4, prm-search-bookmark-filter .prm-hue4.md-button, prm-topbar .prm-hue4.top-nav-bar, prm-user-area-expandable .md-button.user-button {
+    color: #004a7a;
+}
+
+prm-main-menu[menu-type=menu] .md-button{
+  font-size: 0.85em !important;
+}
+prm-main-menu a{
+  text-transform: uppercase !important;
+}
+prm-library-card-menu button span{
+  text-transform: none;
+}
+prm-search-bar div button span {
+  text-transform: none;
+}
+prm-change-lang md-select span{
+  text-transform: none;
+}
+prm-authentication button span {
+  text-transform: none;
+}
+.prm-primary-bg.prm-hue2, md-backdrop.md-opaque
+{
+  background-color: #000;
+}
+prm-main-menu[menu-type="full"] .md-button .md-headline{
+  color: #2a7fff;
+  text-transform: none;
+}
+.md-button.button-link{
+    color: #00427a;
+}
+a.hover{
+  color: #002485;
+}
+
+prm-main-menu[menu-type="full"] div.main-menu-button .md-button:hover:not([disabled]) {
+	text-decoration: underline;
+}
+prm-logo .logo-image, prm-logo img {
+    max-width: 180px;
+    padding: 2px;
+}

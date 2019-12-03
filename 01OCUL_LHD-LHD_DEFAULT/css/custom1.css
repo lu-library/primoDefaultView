@@ -91,3 +91,52 @@ prm-logo .logo-image, prm-logo img {
     max-width: 180px;
     padding: 2px;
 }
+
+/* main logo and header */
+prm-topbar prm-logo {
+  max-width: none;
+}
+ 
+prm-logo .product-logo {
+  padding: 0;
+}
+ 
+#banner {
+  width: 240px;
+}
+ 
+#banner a:last-of-type {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  padding: 15px 0 0 10px;
+}
+ 
+@media only screen and (max-width: 599px) {
+  #banner {
+    width: 200px;
+  }
+ 
+  #banner a:last-of-type {
+    padding: 18px 0 0 10px;
+  }
+}
+ 
+@media only screen and (max-width: 355px) {
+  #banner {
+    width: 160px;
+  }
+ 
+  #banner a:last-of-type {
+    padding: 20px 0 0 10px;
+  }
+ 
+  prm-search-bookmark-filter .md-icon-button {
+    display: none;
+  }
+ 
+  #favorites-button {
+    display: block;
+    width: 30px;
+  }
+}

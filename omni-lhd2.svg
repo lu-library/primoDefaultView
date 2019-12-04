@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 931.88 160.84"
+   version="1.1"
+   sodipodi:docname="omni-lhd.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>omni-lhd</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2922"
+     inkscape:window-height="1404"
+     id="namedview81"
+     showgrid="false"
+     inkscape:zoom="1.455123"
+     inkscape:cx="441.51843"
+     inkscape:cy="30.352716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fc0;}.cls-2,.cls-3{fill:#00247a;}.cls-3{font-size:58.03px;font-family:CenturyGothic-Bold, Century Gothic;font-weight:700;letter-spacing:0.08em;}</style>
+  </defs>
+  <title
+     id="title6">omni-lhd</title>
+  <rect
+     class="cls-1"
+     x="531.03003"
+     y="3"
+     width="4"
+     height="152"
+     id="rect8"
+     style="fill:#ffcc00" />
+  <path
+     class="cls-2"
+     d="M51.84,90.08a10.07,10.07,0,0,0-13.52-3.32,9.33,9.33,0,0,0-3.43,13,10.06,10.06,0,0,0,13.52,3.31h0a9.34,9.34,0,0,0,3.43-13"
+     transform="translate(-4.97 3)"
+     id="path10" />
+  <path
+     class="cls-2"
+     d="M49.85,124.64a7.7,7.7,0,0,0-10.32-2.54,7.12,7.12,0,0,0-2.63,10,7.68,7.68,0,0,0,10.31,2.54,7.13,7.13,0,0,0,2.64-10"
+     transform="translate(-4.97 3)"
+     id="path12" />
+  <path
+     class="cls-2"
+     d="M51.84,56.68a10.07,10.07,0,0,0-13.53-3.27,9.34,9.34,0,0,0-3.39,13.06,10.07,10.07,0,0,0,13.49,3.29,9.38,9.38,0,0,0,3.43-13"
+     transform="translate(-4.97 3)"
+     id="path14" />
+  <path
+     class="cls-2"
+     d="M49.84,24.42a7.69,7.69,0,0,0-10.32-2.53,7.13,7.13,0,0,0-2.63,10,7.69,7.69,0,0,0,10.32,2.53,7.14,7.14,0,0,0,2.63-10"
+     transform="translate(-4.97 3)"
+     id="path16" />
+  <path
+     class="cls-2"
+     d="M86.55,70.84A12.33,12.33,0,0,0,70,66.77a11.43,11.43,0,0,0-4.22,16,12.33,12.33,0,0,0,16.56,4.07h0a11.44,11.44,0,0,0,4.21-16"
+     transform="translate(-4.97 3)"
+     id="path18" />
+  <path
+     class="cls-2"
+     d="M84.56,105.09a10,10,0,0,0-13.4-3.28,9.24,9.24,0,0,0-3.4,12.93A10,10,0,0,0,81.16,118h0a9.25,9.25,0,0,0,3.4-12.93"
+     transform="translate(-4.97 3)"
+     id="path20" />
+  <path
+     class="cls-2"
+     d="M82.58,138.11a7.62,7.62,0,0,0-10.23-2.49,7.06,7.06,0,0,0-2.59,9.87A7.62,7.62,0,0,0,80,148a7.06,7.06,0,0,0,2.6-9.88"
+     transform="translate(-4.97 3)"
+     id="path22" />
+  <path
+     class="cls-2"
+     d="M84.64,39.16a10.08,10.08,0,0,0-13.52-3.32,9.33,9.33,0,0,0-3.45,13A10.07,10.07,0,0,0,81.19,52.2h0a9.35,9.35,0,0,0,3.43-13"
+     transform="translate(-4.97 3)"
+     id="path24" />
+  <path
+     class="cls-2"
+     d="M82.64,8.14A7.68,7.68,0,0,0,72.31,5.62a7.12,7.12,0,0,0-2.61,10A7.7,7.7,0,0,0,80,18.11a7.15,7.15,0,0,0,2.62-10"
+     transform="translate(-4.97 3)"
+     id="path26" />
+  <path
+     class="cls-2"
+     d="M19,107.51A7.68,7.68,0,0,0,8.65,105,7.12,7.12,0,0,0,6,115a7.68,7.68,0,0,0,10.31,2.52,7.12,7.12,0,0,0,2.63-10v0"
+     transform="translate(-4.97 3)"
+     id="path28" />
+  <path
+     class="cls-2"
+     d="M19,75.35A7.68,7.68,0,0,0,8.65,72.82,7.12,7.12,0,0,0,6,82.78a7.69,7.69,0,0,0,10.32,2.53,7.13,7.13,0,0,0,2.62-10"
+     transform="translate(-4.97 3)"
+     id="path30" />
+  <path
+     class="cls-2"
+     d="M19,43.19A7.68,7.68,0,0,0,8.65,40.66,7.12,7.12,0,0,0,6,50.61a7.68,7.68,0,0,0,10.32,2.53,7.12,7.12,0,0,0,2.62-10"
+     transform="translate(-4.97 3)"
+     id="path32" />
+  <path
+     class="cls-2"
+     d="M100.61,64.77a10.07,10.07,0,0,0,13.52,3.33,9.34,9.34,0,0,0,3.45-13,10.08,10.08,0,0,0-13.52-3.33h0a9.33,9.33,0,0,0-3.44,13"
+     transform="translate(-4.97 3)"
+     id="path34" />
+  <path
+     class="cls-2"
+     d="M102.61,30.22a7.68,7.68,0,0,0,10.31,2.54,7.12,7.12,0,0,0,2.63-10,7.68,7.68,0,0,0-10.31-2.54,7.13,7.13,0,0,0-2.63,10"
+     transform="translate(-4.97 3)"
+     id="path36" />
+  <path
+     class="cls-2"
+     d="M100.4,97.36a10,10,0,0,0,13.41,3.25,9.25,9.25,0,0,0,3.36-12.94A10,10,0,0,0,103.8,84.4a9.31,9.31,0,0,0-3.4,12.93"
+     transform="translate(-4.97 3)"
+     id="path38" />
+  <path
+     class="cls-2"
+     d="M102.38,129.34a7.62,7.62,0,0,0,10.24,2.53,7.06,7.06,0,0,0,2.62-9.87A7.64,7.64,0,0,0,105,119.46h0a7.07,7.07,0,0,0-2.61,9.87"
+     transform="translate(-4.97 3)"
+     id="path40" />
+  <path
+     class="cls-2"
+     d="M133.48,47.35a7.69,7.69,0,0,0,10.33,2.51,7.12,7.12,0,0,0,2.6-10,7.68,7.68,0,0,0-10.32-2.52,7.13,7.13,0,0,0-2.62,10"
+     transform="translate(-4.97 3)"
+     id="path42" />
+  <path
+     class="cls-2"
+     d="M133.48,79.51A7.67,7.67,0,0,0,143.8,82a7.12,7.12,0,0,0,2.62-10,7.69,7.69,0,0,0-10.32-2.52h0a7.13,7.13,0,0,0-2.62,10"
+     transform="translate(-4.97 3)"
+     id="path44" />
+  <path
+     class="cls-2"
+     d="M133,110.74a7.61,7.61,0,0,0,10.23,2.5,7.05,7.05,0,0,0,2.6-9.87,7.62,7.62,0,0,0-10.24-2.5h0a7.07,7.07,0,0,0-2.6,9.87"
+     transform="translate(-4.97 3)"
+     id="path46" />
+  <path
+     class="cls-2"
+     d="M476.46,24.65a10.23,10.23,0,0,0,10.41-10,10.41,10.41,0,0,0-20.8,0h0a10.22,10.22,0,0,0,10.38,10h0"
+     transform="translate(-4.97 3)"
+     id="path48" />
+  <polygon
+     points="455.35 109.17 455.65 109.17 455.35 109.16 455.35 109.17"
+     id="polygon50" />
+  <polygon
+     class="cls-2"
+     points="475.1 38.64 454.27 43.85 454.73 47.12 465.06 45.64 465.06 104.41 455.55 105.52 456.28 105.61 455.96 109.16 472.46 108.88 489.89 109.17 490.21 105.61 479.71 104.41 479.71 38.34 475.1 38.64"
+     id="polygon52" />
+  <polygon
+     points="375 109.17 375.3 109.17 374.99 109.16 375 109.17"
+     id="polygon54" />
+  <path
+     class="cls-2"
+     d="M460.54,102.52,450,101.41V57.07c0-16.21-3.39-22.91-20.2-22.91L404.33,49.78l-.47-14.25-4.16.14-20.82,5.21.46,3.42,10.49-1.71v58.78l-9.59,1.13.65.07-.31,3.55,16.81-.28,14.5.29.31-3.56-7.88-1.2V54.1l5.26-3c5.7-3.57,10.33-6.39,15.75-6.39,6.48,0,9.85,3,9.85,11.6v45.09l-7.56,1.2.46,3.56,15-.29,17.27.28-.46-3.55Z"
+     transform="translate(-4.97 3)"
+     id="path56" />
+  <polygon
+     points="455.65 109.17 455.96 109.17 455.97 109.16 455.65 109.17"
+     id="polygon58" />
+  <polygon
+     points="455.55 105.52 454.89 105.61 455.35 109.16 455.65 109.17 455.96 109.16 456.28 105.61 455.55 105.52"
+     id="polygon60" />
+  <polygon
+     points="455.55 105.52 454.89 105.61 455.35 109.16 455.65 109.17 455.96 109.16 456.28 105.61 455.55 105.52"
+     id="polygon62" />
+  <path
+     class="cls-2"
+     d="M380.24,102.53l-10.61-1.12V57.71c0-16.36-3.39-23.5-20.21-23.5L325.2,49.78c-.92-10.71-6.62-15.62-19.89-15.62L281.25,49.63l-.31-14.13-4.31.14L256,40.86l.46,3.42,10.5-1.69v58.78l-10.21,1.24.3,3.56,17.12-.29,14.5.29.32-3.56-7.57-1.2V54.24L286.46,51c4.79-3.12,10.19-6.25,15.12-6.25,5.86,0,9.1,3,9.1,11.6v45.09l-7.09,1.2.3,3.56,14.66-.29,13.72.29.47-3.56-7.25-1.2V54.24L330.58,51c4.78-3.12,10.17-6.25,15-6.25,6,0,9.26,3,9.26,11.6v45.09l-7.51,1.2.46,3.56,15.12-.29,17.11.28-.3-3.55Z"
+     transform="translate(-4.97 3)"
+     id="path64" />
+  <polygon
+     points="375.3 109.17 375.61 109.17 375.61 109.16 375.3 109.17"
+     id="polygon66" />
+  <polygon
+     points="375.27 105.53 374.68 105.61 375 109.16 375.3 109.17 375.61 109.16 375.92 105.61 375.27 105.53"
+     id="polygon68" />
+  <polygon
+     points="375.27 105.53 374.68 105.61 375 109.16 375.3 109.17 375.61 109.16 375.92 105.61 375.27 105.53"
+     id="polygon70" />
+  <path
+     class="cls-2"
+     d="M221.56,102.9c-13,0-21.9-14.58-21.9-34.07,0-17.71,6.16-29.31,18-29.31,12.65,0,22.06,12.94,22.06,34.06,0,17.42-6.32,29.32-18.2,29.32m.16-68.74c-23,4.46-37.8,15.92-37.8,38.68,0,20.39,13.89,35.42,33.63,35.42,23.13-4.17,37.79-15.92,37.79-38.69,0-20.38-13.73-35.41-33.62-35.41"
+     transform="translate(-4.97 3)"
+     id="path72" />
+  <text
+     class="cls-3"
+     transform="scale(1.0099505,0.99014754)"
+     id="text74"
+     x="575.30554"
+     y="50.346031"
+     style="font-weight:700;font-size:58.60742569px;font-family:CenturyGothic-Bold, 'Century Gothic';letter-spacing:0.08em;fill:#00247a;stroke-width:1.00995052">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.60800171px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00995052"
+       id="tspan3788">Lakehead</tspan>
+  </text>
+  <text
+     class="cls-3"
+     transform="scale(1.0099505,0.99014754)"
+     id="text76"
+     x="575.30554"
+     y="144.46335"
+     style="font-weight:700;font-size:58.60742569px;font-family:CenturyGothic-Bold, 'Century Gothic';letter-spacing:0.08em;fill:#00247a;stroke-width:1.00995052">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.60800171px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00995052"
+       id="tspan3792">Library</tspan>
+  </text>
+  <text
+     class="cls-3"
+     transform="scale(1.0099505,0.99014754)"
+     id="text78"
+     x="575.30554"
+     y="97.005745"
+     style="font-weight:700;font-size:58.60742569px;font-family:CenturyGothic-Bold, 'Century Gothic';letter-spacing:0.08em;fill:#00247a;stroke-width:1.00995052">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.60800171px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.00995052"
+       id="tspan3790">University</tspan>
+  </text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3794"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3796"><rect
+         id="rect3798"
+         width="432.95309"
+         height="315.43726"
+         x="588.95367"
+         y="-74.878914" /></flowRegion><flowPara
+       id="flowPara3800"></flowPara></flowRoot></svg>

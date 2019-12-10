@@ -6,6 +6,12 @@ The default view for Primo - Lakehead University Library
 - https://ocul-lhd.primo.exlibrisgroup.com/discovery/search?vid=01OCUL_LHD:NEW_VIEW
 
 ## Installation
+### Build the two packages
+```bash
+./build.sh
+```
+Then you can find the two zip files in dist folder. Then you can upload the zip file to your Primo VE.
+
 ### Generate the production package
 ```bash
 ./package.sh LHD_DEFAULT

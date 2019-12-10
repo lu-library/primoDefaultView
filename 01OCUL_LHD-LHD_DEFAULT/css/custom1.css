@@ -88,7 +88,7 @@ prm-main-menu[menu-type="full"] div.main-menu-button .md-button:hover:not([disab
 	text-decoration: underline;
 }
 prm-logo .logo-image, prm-logo img {
-    max-width: 180px;
+    max-width: none;
     padding: 2px;
 }
 
@@ -101,15 +101,9 @@ prm-logo .product-logo {
   padding: 0;
 }
  
-#banner {
-  width: 240px;
-}
- 
-#banner a:last-of-type {
-  display: inline-block;
-  width: 100%;
-  height: 100%;
-  padding: 15px 0 0 10px;
+div#banner {
+  width: 220px;
+  padding: 10px 0 0 10px;
 }
  
 @media only screen and (max-width: 599px) {
@@ -139,48 +133,4 @@ prm-logo .product-logo {
     display: block;
     width: 30px;
   }
-}
-
-div.libraryh3lp {
-  margin-bottom: 4px;
-}
-
-div.libraryh3lp a {
-  background: #002f5e;
-  border: 0;
-  box-sizing: inherit;
-  color: #fff;
-  cursor: pointer;
-  font-size: 20px;
-  line-height: 1em;
-  padding: 18px;
-  position: fixed;
-  text-align: center;
-  text-decoration: none;
-  z-index: 100;
-  bottom: -1px;
-  right: 30%;
-  font-family: "Source Sans Pro", sans-serif;
-  transition: padding 0.3s ease-out;
-}
-
-/* ask librarian */
-div.libraryh3lp img {
-  border: 2px solid #d9e0e7;
-}
-
-div.libraryh3lp img:hover {
-  border: 2px solid #406486;
-}
-
-div.libraryh3lp span {
-  padding-left: 30px;
-}
-
-.fa.fa-comment {
-  background-size: cover;
-  position: absolute;
-  width: 18px;
-  height: 18px;
-  margin-top: 2px;
 }

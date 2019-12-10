@@ -1,4 +1,4 @@
 #!/bin/bash
-rm -rf dist/*
-zip -r 01OCUL_LHD-LHD_DEFAULT.zip 01OCUL_LHD-LHD_DEFAULT
+rm -rf dist/01OCUL_LHD-$1.zip
+zip -r 01OCUL_LHD-$1.zip 01OCUL_LHD-$1
 mv *zip dist/

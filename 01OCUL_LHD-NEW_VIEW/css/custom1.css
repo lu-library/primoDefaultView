@@ -88,7 +88,7 @@ prm-main-menu[menu-type="full"] div.main-menu-button .md-button:hover:not([disab
 	text-decoration: underline;
 }
 prm-logo .logo-image, prm-logo img {
-    max-width: 180px;
+    max-width: none;
     padding: 2px;
 }
 
